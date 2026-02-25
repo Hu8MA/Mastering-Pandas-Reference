@@ -418,6 +418,3 @@ pd.set_option('display.float_format', '{:.2f}'.format)
 
 *This is Part 1 of the Pandas for Data Science series. Next up: **Part 2 — Filtering, Selecting & Cleaning Data.***
 
----
-
-**Tags:** `Python` `Pandas` `Data Science` `Machine Learning` `Data Analysis` `Tutorial` `Programming`
